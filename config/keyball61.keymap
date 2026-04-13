@@ -79,7 +79,7 @@
 &trans  &trans    &kp UP    &trans     &trans  &trans                      &trans         &trans     &trans  &trans     &trans     &trans
 &trans  &kp LEFT  &kp DOWN  &kp RIGHT  &trans  &trans                      &kp PAGE_UP    &mkp LCLK  &trans  &mkp RCLK  &mkp MCLK  &trans
 &trans  &trans    &trans    &trans     &trans  &trans  &mkp MB5  &mkp MB4  &kp PAGE_DOWN  &trans     &trans  &trans     &trans     &trans
-&trans  &trans    &trans    &trans     &trans  &trans  &trans    &trans    &mo 2                                        &trans     &trans
+&trans  &trans    &trans    &trans     &trans  &trans  &trans    &trans    &trans                                       &trans     &trans
             >;
         };
 
