@@ -54,7 +54,7 @@
             label = "MOUSE";
             bindings = <
 &trans  &trans    &trans    &trans     &trans  &trans                      &trans         &trans          &trans          &trans           &trans     &trans
-&trans  &trans    &kp UP    &trans     &trans  &trans                      &trans         &msc SCRL_LEFT  &msc SCRL_UP    &msc SCRL_RIGHT  &trans     &trans
+&trans  &kp HOME  &kp UP    &kp END    &trans  &trans                      &trans         &msc SCRL_LEFT  &msc SCRL_UP    &msc SCRL_RIGHT  &trans     &trans
 &trans  &kp LEFT  &kp DOWN  &kp RIGHT  &trans  &trans                      &kp PAGE_UP    &mkp LCLK       &msc SCRL_DOWN  &mkp RCLK        &mkp MCLK  &trans
 &trans  &trans    &trans    &trans     &trans  &trans  &mkp MB5  &mkp MB4  &kp PAGE_DOWN  &trans          &trans          &trans           &trans     &trans
 &trans  &trans    &trans    &trans     &trans  &trans  &trans    &trans    &mo 5                                                           &trans     &trans
@@ -65,7 +65,7 @@
             label = "SCROLL";
             bindings = <
 &trans  &trans    &trans    &trans     &trans  &trans                      &trans         &trans          &trans          &trans           &trans     &trans
-&trans  &trans    &kp UP    &trans     &trans  &trans                      &trans         &msc SCRL_LEFT  &msc SCRL_UP    &msc SCRL_RIGHT  &trans     &trans
+&trans  &kp HOME  &kp UP    &kp END    &trans  &trans                      &trans         &msc SCRL_LEFT  &msc SCRL_UP    &msc SCRL_RIGHT  &trans     &trans
 &trans  &kp LEFT  &kp DOWN  &kp RIGHT  &trans  &trans                      &kp PAGE_UP    &mkp LCLK       &msc SCRL_DOWN  &mkp RCLK        &mkp MCLK  &trans
 &trans  &trans    &trans    &trans     &trans  &trans  &mkp MB5  &mkp MB4  &kp PAGE_DOWN  &trans          &trans          &trans           &trans     &trans
 &trans  &trans    &trans    &trans     &trans  &trans  &trans    &trans    &trans                                                          &trans     &trans
